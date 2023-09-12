@@ -53,6 +53,7 @@ nav {
   }
   
   nav a {
+    font-size: 1.2em;
     display: block;
     padding: 10px 20px;
     text-decoration: none;
