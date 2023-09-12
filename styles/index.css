@@ -37,3 +37,27 @@ html {
 .link-container a {
     margin-inline: 3em;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+  }
+  
+  nav a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  nav img {
+    max-height: 50px;
+  }
