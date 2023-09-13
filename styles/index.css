@@ -39,9 +39,12 @@ html {
 }
 
 nav {
+    border-bottom: 2px solid black;
+    border-radius: 0px 0px 5px 5px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+
   }
   
   nav ul {
